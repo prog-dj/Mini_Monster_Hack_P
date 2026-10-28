@@ -1,0 +1,5 @@
+﻿*.csv
+hunt_results/
+hunt_results_backup/
+test_data/
+Test datas/
